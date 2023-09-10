@@ -54,16 +54,16 @@ The solution requires at least 1 environment with Dataverse enabled for Process 
 
 #### Installzation
 1. Download and deploy below prerequiest solution package
-1.1. Creator Kit
-1.2. FormatJSONControl
+    - Creator Kit
+    - FormatJSONControl
 2. Download the latest process platform solution package and import
 3. Publish all
 4. Process data initialization and setup
 5. Note down below WebAPI's URL for further client config
-5.1. WebAPI - Query Process Status
-5.2. WebAPI - Get User's BU Info
-5.3. WebAPI - Initiate Process
-5.4. WebAPI - Query Process Status
+    - WebAPI - Query Process Status
+    - WebAPI - Get User's BU Info
+    - WebAPI - Initiate Process
+    - WebAPI - Query Process Status
 
 ### Process Client Sample
 #### License Requirement
@@ -76,12 +76,12 @@ The solution requires at least 1 environment with Dataverse enabled for Process 
 
 #### Installzation
 1. Download and deploy below prerequiest solution package
-1.1. Creator Kit
-1.2. FormatJSONControl
-1.3. PcfFormJson
+    - Creator Kit
+    - FormatJSONControl
+    - PcfFormJson
 3. Download the latest Business Process Accelaerator - Sample Client solution package and import
 4. Publish all
-5. Configure the environment variable "Rule Based Process Platform WebAPI Connections"
+5. Configure the environment variable "Rule Based Process Platform WebAPI Connections" with noted server side Web API urls.
    
 ## Change log
 
