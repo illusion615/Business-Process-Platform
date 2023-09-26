@@ -101,6 +101,10 @@ The process client deploy with process application project, deploy within the sa
 5. Design the process template
 6. Implemente client side process initiation flow
 7. Test & debug
+
+## Backlog
+1. Decrease implementation complicity by building the common entity for client application
+2. Add server side API for delegation query and settings
    
 ## Change log
 
